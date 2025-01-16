@@ -1,0 +1,4 @@
+在build目录下进行编译：
+1、如果直接cmake ..失败的话 要先清空build目录
+2、执行cmake ..
+3、执行make

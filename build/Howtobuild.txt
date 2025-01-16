@@ -1,4 +1,0 @@
-在build目录下：
-1、cmake ..
-2、make
-可执行文件在bin目录
